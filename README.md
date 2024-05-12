@@ -1,19 +1,28 @@
-# Hi there 👋, Tymon here
-## Frontend Dev and UX/UI from Poland, Europe
-![Frontend Dev and UX/UI from Poland, Europe](https://pbs.twimg.com/profile_banners/978727424455299079/1629843567/1080x360)
+# Hi, I'm Tymon 'tajmon' Jędryczka! 👋
 
-I'm 16 y.o student who loves to design and code websites. Computers have been my greatest passion for several years now. I'm interested in Web Development, Cyber Security, Hardware, and Blockchain. Except for that like mountain hiking, weightlifting, and cycling.
+I come from Poland, Europe, and programming has been my passion since 2020. I am interested in a variety of specializations from Front-End to AI but the former is what I have a vocation for. I'm no stranger to rules of code maintainability and design.
 
-### Languages and Tools:
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-</p>
+## 🚀 About Me
 
+- 🔭 I'm a soon-to-be Computer Science student.
+
+## Tech Stack and Tools
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,nodejs,react,python,git,github,vscode,figma)](https://skillicons.dev)
+
+## 🌱 Currently Exploring
+
+Web Development and Software Engineering
+  - React and Redux
+  - React Router
+  - TypeScript
+  - Algorithms and Data Structures
+
+ ## 🏆 Achievements
+
+- 🎤 Gave a talk on CodeMeet (a meeting for young programming enthusiasts in my city) about web scraping in JavaScript using Puppeteer.
+
+## 📬 Get in Touch
+
+- Write an email to: jedryczkatymon@gmail.com
+
+Thanks for stopping by! Let's connect and do some projects together. 🚀
