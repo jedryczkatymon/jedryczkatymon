@@ -4,7 +4,7 @@ I come from Poland, Europe, and programming has been my passion since 2020. I am
 
 ## 🚀 About Me
 
-- 🔭 I'm a soon-to-be Computer Science student.
+- 🔭 I'm a Computer Engineering student at Wrocław University of Technology.
 
 ## Tech Stack and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,nodejs,react,python,git,github,vscode,figma)](https://skillicons.dev)
