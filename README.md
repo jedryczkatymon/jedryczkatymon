@@ -6,10 +6,10 @@ I come from Poland, Europe, and programming has been my passion since 2020. I am
 
 - 🔭 I'm a Computer Engineering student at Wrocław University of Science and Technology.
 
-## Tech Stack and Tools
+## 🔨 Tech Stack and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,nodejs,python,git,github,vscode,figma)](https://skillicons.dev)
 
-## 🌱 Currently Exploring
+## 🔍 Currently Exploring
 
 ### Web Development and Software Engineering
   - React and Redux
