@@ -11,13 +11,13 @@ I come from Poland, Europe, and programming has been my passion since 2020. I am
 
 ## 🌱 Currently Exploring
 
-Web Development and Software Engineering
+### Web Development and Software Engineering
   - React and Redux
   - NextJS
   - Tailwind CSS
   - TypeScript
 
-Software Engineering
+### Software Engineering
   - Algorithms and Data Structures
   - C & C++ programming
 
