@@ -3,9 +3,10 @@
 I come from Poland, Europe, and programming has been my passion since 2020. I am interested in a variety of specializations from Front-End to AI but the former is what I have a vocation for. I'm no stranger to rules of code maintainability and design.
 
 ## 🚀 About Me
-- Front-End Engineer on his way to transition to being a Full Stack Engineer
+- Front-End Engineer at Solvro (a student science club at Wrocław University of Science and Technology
+- Computer Engineering student at WUST
+- On my way to transition to being a Full Stack Engineer
 - Knows a thing or two about UX/UI design
-- Computer Engineering student at Wrocław University of Science and Technology
 
 ## 🛠️ Tech Stack and Tools
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,vite,nodejs,npm,python,git,github,netlify,vscode,figma)](https://skillicons.dev)
