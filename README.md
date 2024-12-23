@@ -9,7 +9,7 @@ I come from Poland, Europe, and programming has been my passion since 2020. I am
 - Knows a thing or two about UX/UI design
 
 ## 🛠️ Tech Stack and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,react,nextjs,vite,nodejs,npm,python,git,github,netlify,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,react,nextjs,vite,nodejs,npm,python,git,github,netlify,vscode,figma)](https://skillicons.dev)
 
 ## 🔍 Currently Exploring
 
